@@ -1,0 +1,11 @@
+@import "~node_modules/bootstrap/dist/css/bootstrap.min.css";
+body {
+    background-color:rgb(218, 251, 173); 
+    background-image: url(src\assets\bg.jpg);  
+    border-style: hidden;
+    background-position: top;
+}
+/* body {
+    background-color:dimgrey;  
+} */
+
